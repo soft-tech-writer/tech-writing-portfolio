@@ -26,6 +26,6 @@ For over 11 years, I’ve been working in public institutions on **technical con
 
 📚 Detaylı içerikler ve örnek çalışmalar için Wiki sayfasına göz atabilirsiniz (devam ediyor).  
 📚 For detailed content and sample works, please visit the Wiki page:  
-➡️ [Wiki’ye Git / Go to Wiki]([../../wiki](https://github.com/soft-tech-writer/tech-writing-portfolio/wiki)
+➡️ [Wiki’ye Git / Go to Wiki](https://github.com/soft-tech-writer/tech-writing-portfolio/wiki)
 
 📬 İletişim ve güncel içerikler için [LinkedIn profilime](https://www.linkedin.com/in/kubrae/overlay/about-this-profile/) uğrayabilirsiniz.
